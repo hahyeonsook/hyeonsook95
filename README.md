@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=qu3230" width=200/>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=qu3230" width=425/>
 
 
 <!--
