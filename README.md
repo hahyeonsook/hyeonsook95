@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=qu3230" width=425/>
-
-
 <!--
 **hyeonsook95/hyeonsook95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
