@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=qu3230" width=200/> <img src="https://github-readme-stats.vercel.app/api?username=hyeonsook95&show_icons=true&theme=gotham" width=200/>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=qu3230" width=50%/> <img src="https://github-readme-stats.vercel.app/api?username=hyeonsook95&show_icons=true&theme=gotham" width=50%/>
 
 
 <!--
