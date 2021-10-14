@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=qu3230)](https://solved.ac/qu3230)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonsook95&show_icons=true&theme=gotham)
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=qu3230" /> <img src="https://github-readme-stats.vercel.app/api?username=hyeonsook95&show_icons=true&theme=gotham" width=200/>
 
 
 <!--
